@@ -2,7 +2,7 @@
 
 **🚀 Part 1 of 2: Manual On-Premises Deployment**
 
-*This project covers the manual, foundational setup of an Active Directory environment. To see how I took these concepts and fully automated the deployment in the cloud using Infrastructure as Code, check out* [Automating Active Directory in Azure via Terraform](INSERTING GITHUB AZURE DEPLOYMENT SHORTLY)
+*This project covers the manual, foundational setup of an Active Directory environment. To see how I took these concepts and fully automated the deployment in the cloud using Infrastructure as Code, check out* [Automating Active Directory in Azure via Terraform](https://github.com/Dane139/azure-ad-lab)
 
 ### Objective
 
